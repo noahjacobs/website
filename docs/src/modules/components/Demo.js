@@ -203,7 +203,8 @@ class Demo extends React.Component {
 
     return (
       <div className={classes.root}>
-        {demoOptions.hideHeader ? null : (
+        {/*
+          {demoOptions.hideHeader ? null : (
           <div>
             <div className={classes.header}>
               <Tooltip title="See the source on GitHub" placement="top">
@@ -269,8 +270,8 @@ class Demo extends React.Component {
             [classes.demoHiddenHeader]: demoOptions.hideHeader,
           })}
         >
-          <DemoComponent />
-        </div>
+        */}
+        <DemoComponent />
       </div>
     );
   }

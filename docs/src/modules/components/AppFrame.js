@@ -150,16 +150,6 @@ class AppFrame extends React.Component {
             )}
             <div className={classes.grow} />
             <AppSearch />
-            <Tooltip title="Edit docs colors" enterDelay={300}>
-              <IconButton
-                color="inherit"
-                aria-label="Edit docs colors"
-                component={Link}
-                href="/style/color#color-tool"
-              >
-                <ColorsIcon />
-              </IconButton>
-            </Tooltip>
             <Tooltip title="Toggle light/dark theme" enterDelay={300}>
               <IconButton
                 color="inherit"
@@ -186,7 +176,8 @@ class AppFrame extends React.Component {
               <IconButton
                 component="a"
                 color="inherit"
-                href="https://github.com/mui-org/material-ui"
+                href="https://github.com/noahjacobs/website"
+                target="_blank"
                 aria-label="GitHub repository"
               >
                 <GithubIcon />

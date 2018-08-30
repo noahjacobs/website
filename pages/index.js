@@ -140,7 +140,7 @@ class HomePage extends React.Component {
                     <Link
                       variant="button"
                       prefetch
-                      href="/about/intro"
+                      href="/about"
                       {...buttonProps}
                     />
                   )}
