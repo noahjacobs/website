@@ -4,7 +4,7 @@
 
 What are thoughts made of? The idea of the nest in the bird's mind, where does it come from? As a Computer Scientist and Cognitive Scientist, this is what I'm principally interested in. Ideas on ideas...
 
-I'm fascinated by new emerging technologies, AI algorithms, which can be used for us to offload cognition, offload menial tasks, and free us to living in richer creative and social spaces. The future of humanity is us focusing our minds and inhabiting spaces that are linguistic constructs, spaces built and shaped by mind, and thoughts, and intentionality. I'm a strong advocate for the ethical implementation of machine learning (not all applications of ML are good), and view privacy as a human right.
+I'm fascinated by new emerging technologies in AI, which can be used for us to offload cognition, offload menial tasks, and free us to living in richer social spaces. The future of humanity is us focusing our minds and inhabiting spaces that are linguistic constructs, spaces built and shaped by mind, and thoughts, and intentionality. I'm a strong advocate for the ethical implementation of machine learning (not all applications of ML are good), and view privacy as a human right.
 
 ## Bio
 

@@ -55,6 +55,17 @@ const pages = [
     ],
   },
   {
+    pathname: '/computer-vision',
+    children: [
+      {
+        pathname: '/computer-vision/colorizer',
+      },
+      {
+        pathname: '/computer-vision/camera-obscura',
+      },
+    ],
+  },
+  {
     pathname: '/',
     displayNav: false,
     title: false,

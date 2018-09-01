@@ -1,5 +1,7 @@
 # Ray Tracing Materials
 
+<p class="description">Computer Graphics</p>
+
 <img src="/static/images/ray-tracing-materials/mockup.jpg" width="100%" height="100%" />
 
 >This details my implementation of more complicated materials, environment lights, and depth of field to my ray tracer.

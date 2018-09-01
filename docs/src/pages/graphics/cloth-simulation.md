@@ -1,5 +1,7 @@
 # Clothsim
 
+<p class="description">Computer Graphics</p>
+
 <img src="/static/images/cloth/collision-5000.png" width="49%" height="49%" />
 <img src="/static/images/cloth/collision-5000.gif" width="49%" height="49%" />
 

@@ -41,14 +41,14 @@ function HomeFooter(props) {
           <Grid item xs={12} sm={6}>
             <ul className={classes.list}>
               <li className={classes.listItem}>
-                <Link href="https://github.com/mui-org/material-ui">GitHub</Link>
+                <Link href="/about">About Me</Link>
               </li>
               <li className={classes.listItem}>
-                <Link href="https://twitter.com/MaterialUI">Twitter</Link>
+                <Link href="/graphics/rasterizer">Graphics</Link>
               </li>
               <li className={classes.listItem}>
-                <Link href="https://github.com/mui-org/material-ui/tree/master/examples">
-                  Examples
+                <Link href="computer-vision/colorizer">
+                  Computer Vision
                 </Link>
               </li>
             </ul>
@@ -56,20 +56,20 @@ function HomeFooter(props) {
           <Grid item xs={12} sm={6}>
             <ul className={classes.list}>
               <li className={classes.listItem}>
-                <Link href="/discover-more/community">Community</Link>
+                <Link href="/discover-more/community">Design</Link>
               </li>
               <li className={classes.listItem}>
-                <Link href="/discover-more/roadmap">Roadmap</Link>
+                <Link href="/writing/meditations">Meditations</Link>
               </li>
               <li className={classes.listItem}>
-                <Link href="/discover-more/team">Team</Link>
+                <Link href="/writing/travel">Travel</Link>
               </li>
             </ul>
           </Grid>
         </Grid>
       </Typography>
       <Typography className={classes.version}>
-        {`Currently v${process.env.LIB_VERSION}. Released under the `}
+        {`Built using Material-UI. Released under the `}
         <Link href="https://github.com/mui-org/material-ui/blob/master/LICENSE">MIT License</Link>
         {'.'}
       </Typography>

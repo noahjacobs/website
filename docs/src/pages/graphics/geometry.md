@@ -1,5 +1,7 @@
 # MeshEdit
 
+<p class="description">Computer Graphics</p>
+
 <img src="/static/images/geometry/geometry.jpg" width="100%" height="100%" />
 
 This details my approach to building a tool that allows you to load and edit basic COLLADA mesh files that are now used by many major modeling packages and real time graphics engines. A COLLADA file describes a scene graph (much like SVG) that is a hierarchical representation of all objects in the scene (meshes, cameras, lights, etc.), as well as their coordinate transformations. Here I built Bezier curves and surfaces using de Casteljau's algorithm, manipulated half-edge meshes, and implemented Loop subdivision.

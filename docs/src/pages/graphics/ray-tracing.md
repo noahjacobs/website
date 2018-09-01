@@ -1,5 +1,7 @@
 # Ray Tracing
 
+<p class="description">Computer Graphics</p>
+
 <img src="/static/images/ray-tracing/mockup.jpg" width="100%" height="100%" />
 
 This details my implementation of a physically-based renderer using a pathracing algorithm. The program generates stunning pictures, utilizing techniques such as ray-scene intersection, acceleration structures, and physically based lighting and materials.
